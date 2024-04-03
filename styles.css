@@ -1,8 +1,8 @@
 :root {
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
-    --botao-azul: #167BF7;
-    --cor-de-fundo: #00030C;
+    --botao-azul: #cc2059;
+    --cor-de-fundo: #bd2349;
     --fonte-principal: 'Inter';
     --botao-azul-efeito: #3c92fa;
 }
@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("img/Background.png");
+    background-image: url("taylor.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
